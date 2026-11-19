@@ -1,0 +1,5 @@
+# Build and local-run outputs
+out/
+*.log
+.DS_Store
+node_modules/
